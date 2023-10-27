@@ -2,4 +2,4 @@
 
 _Empowering React Ecosystem_
 
-<img src='./react.png' >
+![profile-banner](https://github.com/react-serbia/.github/blob/main/profile/react.png)
