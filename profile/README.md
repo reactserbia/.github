@@ -2,4 +2,4 @@
 
 _Empowering React Ecosystem_
 
-<img src='react.png' >
+<img src='./react.png' >
